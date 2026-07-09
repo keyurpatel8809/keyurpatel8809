@@ -68,7 +68,7 @@ Full-stack Java + React applications with RESTful APIs, responsive UI, and produ
   <a href="https://post-drop.app" target="_blank">
     <img alt="Post-drop.app" src="https://img.shields.io/badge/Post--drop.app-4B9CE2?style=for-the-badge&logo=googlechrome&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/keyur-patel13" target="_blank">
+  <a href="https://www.linkedin.com/in/keyur-patel13/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://github.com/keyurpatel8809" target="_blank">
