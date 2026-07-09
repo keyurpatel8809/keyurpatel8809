@@ -41,7 +41,7 @@ Software Engineer & SaaS builder based in Canada, working across fintech, bankin
 
 ### 🕒 Post-drop.app – Social Media Scheduling Tool
 A SaaS platform for scheduling and automating social media posts for creators, startups, and small businesses.  
-- Built with: React/TypeScript, Node or Spring Boot (adjust based on your stack), cloud-hosted backend and database  
+- Built with: React/TypeScript, Node, Express.js, supabase, AWS S3 cloud-hosted backend and database  
 - Focus: Queue-based scheduling, multi-account support, clean UX, and analytics-friendly data model  
 
 ### 🏦 Banking & Fintech Microservices (CIBC / TechnoKwik)
